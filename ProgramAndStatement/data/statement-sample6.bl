@@ -1,0 +1,3 @@
+WHILE next-is-wall DO
+  turnright
+END WHILE

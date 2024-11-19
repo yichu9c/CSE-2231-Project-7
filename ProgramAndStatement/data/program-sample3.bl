@@ -1,0 +1,12 @@
+PROGRAM HELLO IS
+
+  INSTRUCTION ONE- IS
+     move
+  END ONE-
+  
+
+BEGIN
+  WHILE true DO
+    ONE-
+  END WHILE
+END HELLO

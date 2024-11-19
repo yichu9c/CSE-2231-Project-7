@@ -1,0 +1,10 @@
+PROGRAM H IS
+
+  INSTRUCTION one IS
+  END one
+
+BEGIN
+  WHILE true DO
+    one
+  END WHILE
+END H
